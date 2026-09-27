@@ -1,0 +1,6 @@
+{
+  "name": "Handshake CyberCareer Chrome Extension",
+  "description": "Chrome Extension (Manifest V3) and Interactive Workbench for Computer Science students transitioning to Cybersecurity on Handshake, featuring real-time job scraping, Gemini match scoring, and tailored cover letter generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
